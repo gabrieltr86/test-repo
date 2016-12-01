@@ -1,0 +1,35 @@
+
+
+
+GIT DOCUMENTATION
+**************************************************************************
+**************************************************************************
+https://git-scm.com/
+https://www.siteground.com/tutorials/git/commands.htm
+http://gitref.org/
+
+
+
+BITBUCKET
+**************************************************************************
+**************************************************************************
+
+
+Repository privacy, permissions, and more
+======================================
+https://confluence.atlassian.com/bitbucket/repository-privacy-permissions-and-more-221449716.html?_ga=1.178134373.155652993.1479923020
+
+
+Connect Bitbucket Cloud to JIRA Cloud applications
+======================================
+https://confluence.atlassian.com/bitbucket/connect-bitbucket-cloud-to-jira-cloud-applications-814190686.html
+
+
+Comparing Workflows
+======================================
+https://www.atlassian.com/git/tutorials/comparing-workflows
+
+
+Learn about code review in Bitbucket Cloud
+======================================
+https://www.atlassian.com/git/tutorials/learn-about-code-review-in-bitbucket-cloud
