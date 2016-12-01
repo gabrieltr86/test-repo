@@ -8,6 +8,8 @@ https://git-scm.com/
 https://www.siteground.com/tutorials/git/commands.htm
 http://gitref.org/
 
+COMANDOS
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 
 
 BITBUCKET
